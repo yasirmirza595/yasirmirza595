@@ -20,16 +20,15 @@
 
 ### 🚀 Featured Projects
 
-- [**Y&Y Automotive (Frontend)**](https://github.com/yasirmirza595/yy-frontend)  
-  A workshop management and booking platform (Frontend).  
-  🔗 [Live Demo](https://yy-frontend.vercel.app)
-
-- [**Y&Y Automotive (Backend)**](https://github.com/yasirmirza595/yy-backend)  
-  API and backend services for Y&Y Automotive.  
+- [**Y&Y Automotive**](https://github.com/yasirmirza595/yy-frontend)  
+  A complete workshop management and booking platform.  
+  - 🔗 [Frontend Repository](https://github.com/yasirmirza595/yy-frontend)  
+  - 🔗 [Backend Repository](https://github.com/yasirmirza595/yy-backend)  
+  - 🌍 [Live Demo](https://yy-frontend.vercel.app)
 
 - [**Portfolio Website**](https://github.com/yasirmirza595/portfolio-website)  
   Personal portfolio showcasing projects and skills.  
-  🔗 [Live Demo](https://portfolio-website-pi-gilt-94.vercel.app)
+  - 🌍 [Live Demo](https://portfolio-website-pi-gilt-94.vercel.app)
 
 ---
 
