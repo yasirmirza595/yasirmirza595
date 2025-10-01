@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasir Mirza</h1>
-<h3 align="center">A Passionate Software Engineer | Developer from Pakistan</h3>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yasirmirza595&label=Profile%20views&color=0e75b6&style=flat" alt="yasirmirza595" />
@@ -9,16 +9,28 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I’m a **6th semester Software Engineering student** at SSUET  
-- 🌱 Currently learning **Full Stack Development, AI, and Open Source Tools**  
-- 🚀 Building: [Yaseen & Yasir Automotive](https://github.com/yasirmirza595/yy-automotive)  
+- 💼 I’m a **Software Engineer** specializing in Full Stack Development  
+- 🌱 Currently learning **AI, Machine Learning, and Open Source Tools**  
+- 🚀 Building: [Y&Y Automotive](https://github.com/yasirmirza595/yy-automotive)  
 - 💬 Ask me about **React, Node.js, MongoDB, Git, Python**  
 - 📫 Reach me at: **yasirmirza595@gmail.com**  
-- 🌐 Visit my portfolio: [yasirmirza.me](https://your-portfolio-link.com)
+- 🌐 Visit my portfolio: [yasirmirza.me](https://portfolio-website-pi-gilt-94.vercel.app)
 
 ---
 
-### 🚀 Languages & Tools
+### 🚀 Featured Projects
+
+- [**Y&Y Automotive**](https://github.com/yasirmirza595/yy-automotive)  
+  A workshop management and booking platform.  
+  🔗 [Live Demo](https://yy-frontend.vercel.app)
+
+- [**Portfolio Website**](https://github.com/yasirmirza595/portfolio-website)  
+  Personal portfolio showcasing projects and skills.  
+  🔗 [Live Demo](https://portfolio-website-pi-gilt-94.vercel.app)
+
+---
+
+### 🛠️ Languages & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
@@ -36,6 +48,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yasirmirza595&show_icons=true&theme=tokyonight" alt="yasirmirza595 stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirmirza595&theme=tokyonight" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirmirza595&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
@@ -56,4 +69,5 @@
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to explore my repositories and connect!*
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect!*  
+💡 *Open to freelance opportunities and collaborations.*
