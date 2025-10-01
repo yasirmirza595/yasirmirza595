@@ -20,9 +20,12 @@
 
 ### 🚀 Featured Projects
 
-- [**Y&Y Automotive**](https://github.com/yasirmirza595/yy-automotive)  
-  A workshop management and booking platform.  
+- [**Y&Y Automotive (Frontend)**](https://github.com/yasirmirza595/yy-frontend)  
+  A workshop management and booking platform (Frontend).  
   🔗 [Live Demo](https://yy-frontend.vercel.app)
+
+- [**Y&Y Automotive (Backend)**](https://github.com/yasirmirza595/yy-backend)  
+  API and backend services for Y&Y Automotive.  
 
 - [**Portfolio Website**](https://github.com/yasirmirza595/portfolio-website)  
   Personal portfolio showcasing projects and skills.  
