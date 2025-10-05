@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 - 💼 Full Stack **Software Engineer**  
 - 🌱 Currently exploring **AI | Machine Learning | Open Source**  
-- 🚀 Founder of [**Y&Y Automotive**](https://github.com/yasirmirza595/yy-frontend)  
+- 🚀 Building [**Y&Y Automotive**](https://github.com/yasirmirza595/yy-frontend)  
 - 💬 Ask me about **React, Node.js, MongoDB, Git, Python**  
 - 📫 Reach me: **yasirmirza595@gmail.com**  
 - 🌐 Portfolio: [yasirmirza.me](https://portfolio-website-pi-gilt-94.vercel.app)  
